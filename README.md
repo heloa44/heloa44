@@ -1,16 +1,16 @@
-## Hi there 👋
+## Heloa ❣️
 
-<!--
-**heloa44/heloa44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá Bem Vindo ao meu perfil! 🎀. 
 
-Here are some ideas to get you started:
+Meu nome é Heloa
+estou cursando o ensino medio!📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aprendendo sobre a programação:
+
+<img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+Obrigado pela visita!
+
+
+<img src="https://media1.tenor.com/m/3io-qeiry30AAAAC/pucca-kiss.gif" alt="a cartoon character with a crown on her head looks surprised"/>
+
